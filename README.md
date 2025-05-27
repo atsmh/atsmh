@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atsmh
 - 👀 I’m studying computer science 
-- 🌱 I’m currently learning Java, Python, C++, Node.js, JavaScript, HTML, CSS, NoSQL
+- 🌱 I’m currently learning Java, Python, C++, Node.js, JavaScript, HTML, CSS, MySQL, NoSQL
 - 💞️ I’m looking to collaborate on new projects with creative minds
 
 
